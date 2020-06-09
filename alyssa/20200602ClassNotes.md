@@ -1,4 +1,4 @@
-# 2020-06-2 Homework 1
+# 2020-06-2 Class Notes
 Name: Alyssa Jiang
 
 Wang 老师's email: wangqianjiang@gmail.com
